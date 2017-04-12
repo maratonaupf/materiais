@@ -6,6 +6,8 @@ Aqui você vai encontrar guias, artigos, livros e outros materiais de estudo e c
 
 Links interessantes:
 
+- [Planilha de Habilidades (Skillset)](https://goo.gl/qdpNKX)
+
 - Portais de programação 
     - [CodCad](http://www.codcad.com)
     - [URI Online Judge](https://www.urionlinejudge.com.br)
